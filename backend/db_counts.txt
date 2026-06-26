@@ -1,0 +1,10 @@
+{
+  "users": 19,
+  "employees": 17,
+  "attendance": 365,
+  "workHours": 325,
+  "breakTimes": 318,
+  "leaves": 25,
+  "salaries": 17,
+  "time": "2026-06-23T09:14:18.485Z"
+}
